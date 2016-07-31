@@ -1,0 +1,83 @@
+2016-05-23 19-33-42 INFO  [qtp877070903-14] com.example.Biotch.ExampleRequest  - Working???
+2016-05-23 20-16-11 INFO  [qtp877070903-13] com.example.Biotch.ExampleRequest  - Working???
+2016-05-23 20-41-32 INFO  [qtp877070903-15] com.example.Biotch.ExampleRequest  - Working???
+2016-05-29 17-45-49 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @242ms
+2016-05-29 17-45-49 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-05-29 17-45-49 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@339bcb0c{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+2016-05-29 17-45-49 INFO  [main] org.eclipse.jetty.server.Server  - Started @368ms
+2016-06-13 15-28-44 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @256ms
+2016-06-13 15-28-44 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-06-13 15-28-44 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@4f47d241{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+2016-06-13 15-28-44 INFO  [main] org.eclipse.jetty.server.Server  - Started @338ms
+2016-06-13 15-42-29 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @162ms
+2016-06-13 15-42-29 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-06-13 15-42-40 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @164ms
+2016-06-13 15-42-40 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-06-13 15-43-06 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @208ms
+2016-06-13 15-43-06 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-06-13 15-43-06 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@49f4f36e{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+2016-06-13 15-43-06 INFO  [main] org.eclipse.jetty.server.Server  - Started @285ms
+2016-07-11 15-50-11 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @318ms
+2016-07-11 15-59-18 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @379ms
+2016-07-11 15-59-18 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@57829d67{/,null,null} contextPath ends with /*
+2016-07-11 15-59-18 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 15-59-18 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 15-59-18 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@57829d67{/,null,AVAILABLE}
+2016-07-11 15-59-18 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@7c013f37{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 15-59-18 INFO  [main] org.eclipse.jetty.server.Server  - Started @1108ms
+2016-07-11 16-03-05 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @246ms
+2016-07-11 16-03-05 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@57829d67{/,null,null} contextPath ends with /*
+2016-07-11 16-03-05 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-03-05 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-03-06 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@57829d67{/,null,AVAILABLE}
+2016-07-11 16-03-06 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@6eb4ab85{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-03-06 INFO  [main] org.eclipse.jetty.server.Server  - Started @981ms
+2016-07-11 16-04-32 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @271ms
+2016-07-11 16-04-32 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@57829d67{/,null,null} contextPath ends with /*
+2016-07-11 16-04-32 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-04-32 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-04-32 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@57829d67{/,null,AVAILABLE}
+2016-07-11 16-04-32 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@f68f0dc{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-04-32 INFO  [main] org.eclipse.jetty.server.Server  - Started @857ms
+2016-07-11 16-07-09 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @211ms
+2016-07-11 16-07-09 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,null} contextPath ends with /*
+2016-07-11 16-07-09 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-07-09 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-07-09 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,AVAILABLE}
+2016-07-11 16-07-09 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@f58853c{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-07-09 INFO  [main] org.eclipse.jetty.server.Server  - Started @738ms
+2016-07-11 16-14-17 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @228ms
+2016-07-11 16-14-17 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@57829d67{/,null,null} contextPath ends with /*
+2016-07-11 16-14-17 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-14-17 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-14-18 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@57829d67{/,null,AVAILABLE}
+2016-07-11 16-14-18 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@f68f0dc{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-14-18 INFO  [main] org.eclipse.jetty.server.Server  - Started @809ms
+2016-07-11 16-14-48 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @186ms
+2016-07-11 16-14-48 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,null} contextPath ends with /*
+2016-07-11 16-14-48 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-14-48 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-14-49 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,AVAILABLE}
+2016-07-11 16-14-49 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@f58853c{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-14-49 INFO  [main] org.eclipse.jetty.server.Server  - Started @729ms
+2016-07-11 16-18-56 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @314ms
+2016-07-11 16-18-56 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,null} contextPath ends with /*
+2016-07-11 16-18-56 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-18-56 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-18-56 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,AVAILABLE}
+2016-07-11 16-18-56 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@3b994ae3{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-18-56 INFO  [main] org.eclipse.jetty.server.Server  - Started @888ms
+2016-07-11 16-42-15 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @258ms
+2016-07-11 16-42-15 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,null} contextPath ends with /*
+2016-07-11 16-42-15 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 16-42-15 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 16-42-16 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,AVAILABLE}
+2016-07-11 16-42-16 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@49b2a47d{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 16-42-16 INFO  [main] org.eclipse.jetty.server.Server  - Started @814ms
+2016-07-11 17-19-50 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @195ms
+2016-07-11 17-19-50 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,null} contextPath ends with /*
+2016-07-11 17-19-50 WARN  [main] org.eclipse.jetty.server.handler.ContextHandler  - Empty contextPath
+2016-07-11 17-19-50 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.3.9.v20160517
+2016-07-11 17-19-50 INFO  [main] org.eclipse.jetty.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@7a0ac6e3{/,null,AVAILABLE}
+2016-07-11 17-19-50 INFO  [main] org.eclipse.jetty.server.AbstractConnector  - Started ServerConnector@5d82dbc0{HTTP/1.1,[http/1.1]}{0.0.0.0:2222}
+2016-07-11 17-19-50 INFO  [main] org.eclipse.jetty.server.Server  - Started @749ms
