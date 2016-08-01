@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven Bundle Plugin
+Built-By: jesse
+Build-Jdk: 1.8.0_77
+Implementation-Vendor: Eclipse.org - Jetty
+Implementation-Version: 9.3.9.v20160517
+url: http://www.eclipse.org/jetty
+Bnd-LastModified: 1463525092516
+Bundle-Classpath: .
+Bundle-Copyright: Copyright (c) 2008-2016 Mort Bay Consulting Pty. Ltd.
+Bundle-Description: Jetty module for Jetty :: Servlet Handling
+Bundle-DocURL: http://www.eclipse.org/jetty
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www
+ .eclipse.org/org/documents/epl-v10.php
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Servlet Handling
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-SymbolicName: org.eclipse.jetty.servlet
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 9.3.9.v20160517
+Export-Package: org.eclipse.jetty.servlet;version="9.3.9";uses:="javax
+ .servlet,javax.servlet.descriptor,javax.servlet.http,org.eclipse.jett
+ y.http,org.eclipse.jetty.security,org.eclipse.jetty.server,org.eclips
+ e.jetty.server.handler,org.eclipse.jetty.server.handler.gzip,org.ecli
+ pse.jetty.server.session,org.eclipse.jetty.util,org.eclipse.jetty.uti
+ l.annotation,org.eclipse.jetty.util.component,org.eclipse.jetty.util.
+ resource",org.eclipse.jetty.servlet.jmx;version="9.3.9";uses:="org.ec
+ lipse.jetty.jmx",org.eclipse.jetty.servlet.listener;version="9.3.9";u
+ ses:="javax.servlet"
+Import-Package: javax.servlet;version="[2.6.0,3.2)",javax.servlet.anno
+ tation;version="[2.6.0,3.2)",javax.servlet.descriptor;version="[2.6.0
+ ,3.2)",javax.servlet.http;version="[2.6.0,3.2)",org.eclipse.jetty.htt
+ p;version="[9.3.9,9.3.10)",org.eclipse.jetty.io;version="[9.3.9,9.3.1
+ 0)",org.eclipse.jetty.jmx;version="[9.3.9,9.3.10)";resolution:=option
+ al,org.eclipse.jetty.security;version="[9.3.9,9.3.10)",org.eclipse.je
+ tty.server;version="[9.3.9,9.3.10)",org.eclipse.jetty.server.handler;
+ version="[9.3.9,9.3.10)",org.eclipse.jetty.server.handler.gzip;versio
+ n="[9.3.9,9.3.10)",org.eclipse.jetty.server.session;version="[9.3.9,9
+ .3.10)",org.eclipse.jetty.util;version="[9.3.9,9.3.10)";resolution:=o
+ ptional,org.eclipse.jetty.util.annotation;version="[9.3.9,9.3.10)";re
+ solution:=optional,org.eclipse.jetty.util.component;version="[9.3.9,9
+ .3.10)";resolution:=optional,org.eclipse.jetty.util.log;version="[9.3
+ .9,9.3.10)";resolution:=optional,org.eclipse.jetty.util.resource;vers
+ ion="[9.3.9,9.3.10)";resolution:=optional
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-2.4.1.201501161923
+
