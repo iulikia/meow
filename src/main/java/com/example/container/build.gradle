@@ -38,11 +38,3 @@ task buildDocker(type: Docker) {
   }
 }
 
-//jar {
-//    manifest {
-//        attributes 'Main-Class': 'com.example.server.MainApp'
-//    }
-//	from {
-//		configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
-//	}
-//}
