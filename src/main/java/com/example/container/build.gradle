@@ -18,8 +18,6 @@ buildscript {
     }
 }
 
-group = 'springio'
-
 apply plugin: 'docker'
 apply plugin: 'java'
 apply plugin: 'eclipse'
@@ -28,12 +26,12 @@ apply plugin: 'idea'
 
 task buildDocker(type: Docker) {
   push = false
-  applicationName = "ho"
+  applicationName = "mickey"
   dockerfile = file('Dockerfile')
   doFirst {
     copy {
-      from 'Ho.jar'
-      into '/home/iarghir/workspace/myTrials/Ho/src/main/java/com/example/container/build/docker'
+      from '../../../../../../build/libs/mickey.jar'
+      into 'build/docker'
     }
   }
 }
